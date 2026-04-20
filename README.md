@@ -5,6 +5,11 @@ This repository contains my personal implementation of classic Deep Learning mod
 ## Motivation
 To deepen my understanding of DL fundamentals, I am reproducing classic papers and architectures to learn the underlying mechanisms of neural networks.
 
+##Preliminaries(prelims)
+Fundamental knowledges
+
+
+
 ## Current Roadmap
 - [ ] Linear Regression / MLP (In Progress)
 - [ ] LeNet-5
