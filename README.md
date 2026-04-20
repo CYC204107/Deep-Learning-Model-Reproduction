@@ -10,16 +10,9 @@ Fundamental knowledges
 
 
 
-## Current Roadmap
-- [ ] Linear Regression / MLP (In Progress)
-- [ ] LeNet-5
-- [ ] ResNet
-- [ ] Transformer (Simplified)
+## Learning transformers based on a Harvard project
+https://github.com/harvardnlp/annotated-transformer/
 
-## Development Environment
-- Python 3.x
-- PyTorch
-- CUDA 11.x
 
 ## License
 This project is licensed under the MIT License.
