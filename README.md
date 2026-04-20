@@ -10,7 +10,7 @@ Fundamental knowledges
 
 
 
-## Learning transformers based on a Harvard project
+## Learn transformer based on a Harvard project
 https://github.com/harvardnlp/annotated-transformer/
 
 
